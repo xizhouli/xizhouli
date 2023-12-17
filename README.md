@@ -9,7 +9,20 @@
 
 ![snake.svg](https://raw.githubusercontent.com/xizhouli/xizhouli/snake/snake.svg)
 
-[![Li Xizhou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xizhouli)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xizhouli)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/xizhouli">
+          <img align="center" src="https://github-readme-stats-liuyuhe.vercel.app/api?username=xizhouli" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/xizhouli">
+          <img align="center" src="https://github-readme-stats-liuyuhe.vercel.app/api/top-langs/?username=xizhouli&layout=compact" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
