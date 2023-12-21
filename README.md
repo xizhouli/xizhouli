@@ -13,12 +13,12 @@
   <tr>
     <td>
       <a href="https://github.com/xizhouli">
-          <img align="center" src="https://github-readme-stats-liuyuhe.vercel.app/api?username=xizhouli" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-liuyuhe.vercel.app/api?username=xizhouli&locale=cn&hide_border=true&show_icons=true" alt="GitHub Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/xizhouli">
-          <img align="center" src="https://github-readme-stats-liuyuhe.vercel.app/api/top-langs/?username=xizhouli&layout=compact" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-liuyuhe.vercel.app/api/top-langs/?username=xizhouli&layout=compact&locale=cn&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
