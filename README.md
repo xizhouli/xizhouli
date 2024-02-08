@@ -25,7 +25,11 @@
 </table>
 
 
-
+<p align="center">
+  <a href="https://github.com/xizhouli">
+    <img align="center" src="https://share-squirrel-12.deno.dev/get/@xizhouli.README.md?theme=rule34" alt="GitHub Count" />
+</a>
+</p>
 
 <!--
 **xizhouli/xizhouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
