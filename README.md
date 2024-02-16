@@ -3,7 +3,7 @@
 ## About Me
 - 🚀 I'm always eager to learn new things
 - 💬 Ask me about anything [here](https://github.com/xizhouli/xizhouli/discussions)
-- 📫 How to reach me: tenifs@qq.com
+- 📫 How to reach me: [公众号【李西舟】]()
 
 ## GitHub Stats
 
