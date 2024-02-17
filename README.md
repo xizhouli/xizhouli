@@ -2,7 +2,11 @@
 
 ## About Me
 - 🚀 I'm always eager to learn new things
+- 🧐 Interested in full stack
+- 🌱 Currently learning Golang
+- ⛵ Encouraging people for open source collaborations
 - 💬 Ask me about anything [here](https://github.com/xizhouli/xizhouli/discussions)
+- ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog](https://hellolyh.xlog.app/)
 - 📫 How to reach me: [公众号【李西舟】](https://raw.githubusercontent.com/xizhouli/xizhouli/main/assets/gzh_qr_code.webp)
 
 ## GitHub Stats
